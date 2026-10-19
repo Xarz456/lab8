@@ -1,0 +1,6 @@
+../Core/Src/main.c:69:5:main	2
+../Core/Src/main.c:118:6:SystemClock_Config	3
+../Core/Src/main.c:161:6:Handle_LEDs	5
+../Core/Src/main.c:183:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:189:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/main.c:210:6:Error_Handler	1
